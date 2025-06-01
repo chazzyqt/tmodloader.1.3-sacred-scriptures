@@ -1,0 +1,8 @@
+displayName = [c/F7F956:The Holy Relics]
+author = High Priests
+version = 9.3.19
+
+hideCode = false
+hideResources = false
+includeSource = true
+

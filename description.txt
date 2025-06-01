@@ -1,0 +1,28 @@
+
+Holy Relics is a mod made for fun by a group called High Priests. This mod introduces items that are balanced around the vanilla terraria items, which is also compatible to other mods. Named Holy Relics as the contents of this mods are made by the High Priests either inspired from the internet, from another mod, or just because we just want an item to exist on the Terraria. Most of the items in the mod are all wacky as we basically put every idea we had into one mod and we used this mod for learning purposes to code or just to sprite items.
+
+Summary:
+*New guns for Early to Post Moon Lord.
+*Carl the Frog!
+*Multiple game item references!
+*Thats all for now currently T^T
+*More items too come soon!
+
+The mod is open for public as this has been made using the help of others and mods that are also open source. This might be help for new members to the Tmodloader community.
+
+Credits to:
+Keeng Julein - Beginner Programmer
+Yemahutz - Sprites
+Hashashaaaa - Majority Sprites (make sure to support this person!)
+The Tmodloader Team
+Support people on the Discord server!
+
+Recommendations!
+-Calamity Mod
+-Spirit Mod
+-Elements Awoken
+-Beyond the Forgotten Ages
+-Ancients Awakened
+-Shadows of Abaddon
+-Stars Above
+-Thorium Mod
